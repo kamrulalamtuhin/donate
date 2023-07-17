@@ -1,0 +1,175 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: 100px;
+    margin: 0;
+    color: rgb(14, 88, 84);
+
+}
+
+p {
+    color: rgb(7, 102, 105);
+    font-size: 25px;
+    margin-bottom: 50px;
+
+}
+
+.top {
+    text-align: center;
+    background-image: url(images/donation2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    padding-top: 200px;
+    margin-bottom: 200px;
+}
+
+.btn {
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    font-size: 20px;
+    padding: 15px 30px;
+    border-radius: 5px;
+}
+
+h2 {
+    font-size: 40px;
+    color: aqua;
+
+}
+
+.donate {
+    text-align: center;
+    color: aqua;
+}
+
+li {
+    list-style: none;
+    background-color: rgba(240, 255, 240, 0.556);
+    font-size: 30px;
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 30px;
+    border-radius: 5px;
+
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+
+}
+
+.tk {
+    color: tomato;
+    background-color: rgba(255, 99, 71, 0.2);
+    border: 2px solid tomato;
+
+}
+
+hr {
+    width: 1000px;
+    margin-bottom: 50px;
+}
+
+.second {
+    text-align: center;
+}
+
+.donate-plan {
+    text-align: center;
+}
+
+.icon {
+    display: flex;
+    text-align: justify;
+    justify-content: center;
+    margin-bottom: 150px;
+
+}
+
+.icon1 {
+    margin: 10px;
+    background-color: rgba(204, 239, 239, 0.545);
+    border-radius: 10px;
+    padding: 30px;
+    height: 400px;
+
+}
+
+.icon2 {
+    margin: 10px;
+    background-color: rgba(183, 241, 222, 0.541);
+    padding: 30px;
+    border-radius: 10px;
+    height: 400px;
+}
+
+.icon3 {
+    margin: 10px;
+    background-color: rgb(249, 249, 243);
+    padding: 30px;
+    border-radius: 10px;
+    height: 400px;
+}
+
+.third {
+    display: flex;
+    margin-bottom: 150px;
+
+
+}
+
+.third img {
+    width: 80%;
+    border-radius: 10px;
+
+}
+
+.half {
+    width: 50%;
+    margin-left: 250px;
+    margin-right: 150px;
+}
+
+.forth {
+    text-align: center;
+}
+
+input {
+    background-color: rgba(128, 128, 128, 0.422);
+    padding: 19px 200px;
+    position: relative;
+
+
+}
+
+.form {
+    text-align: center;
+    background-color: rgba(255, 99, 71, 0.298);
+    height: 150px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-top: 150px;
+    margin-bottom: 100px;
+}
+
+button {
+    position: absolute;
+    right: 650px;
+
+}
+
+footer {
+    background-color: rgb(0, 0, 29);
+    text-align: center;
+    height: 200px;
+    padding-top: 50px;
+}
